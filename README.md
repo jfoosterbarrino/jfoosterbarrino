@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-###Here are the links to some of my deployed applications.
+My name is Jalen and I'm a full-stack web developer and former collegiate athlete with a background in engineering, management, and fitness. I shine in circumstances that require deductive reasoning, attention to detail, and performing under pressure. I relish any opportunity to expand my skillset and take great pride in creating things that people benefit from forever. Being a team player that knows how to lead and how to be led is something I'm always mindful of and striving for.
+
+Software Development skills include HTML, CSS, JavaScript, Python, ReactJS, Flask, Django, Material UI, Bootstrap,  PostgreSQL, SQLAlchemy, Object-Oriented Programming, REST APIs, Git, GitHub, and Heroku.
+
+### Here are the links to some of my deployed applications...
 
 [Flick](http://quickflick.herokuapp.com) - Robust, user-friendly application centered around movies using the TMDB API, Flask back-end, and ReactJS front-end. Never rely on Rotten Tomatoes again, you can now get movie recommendations from people you follow. Registered users can create private watch lists for movies you plan to watch, construct public recommendations list for everyone to see, and explore other user's film recommendations.<br/><br/>
 [Trash 2 Treasure](http://trash-2-treasure.herokuapp.com) - E-commerce site using flask back end and front-end using Bootstrap and Jinja templates. . Create an account, explore, and purchase some of the most random items you can find on the internet. From some of the most iconic looks of all time to an actual human being, we have it all.<br/><br/>
