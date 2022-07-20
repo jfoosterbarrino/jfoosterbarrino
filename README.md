@@ -8,6 +8,7 @@ Software Development skills include HTML, CSS, JavaScript, Python, ReactJS, Flas
 
 ### Here are the links to some of my deployed applications...
 
+[My Portfolio](https://codewithjalen.netlify.app) - Complete Web application I built to showcase me and my work. I created this using React coupled with Material UI and custom CSS. I have a small back-end for sending messages to me through the website. 
 [Flick](http://quickflick.herokuapp.com) - Robust, user-friendly application centered around movies using the TMDB API, Flask back-end, and ReactJS front-end. Never rely on Rotten Tomatoes again, you can now get movie recommendations from people you follow. Registered users can create private watch lists for movies you plan to watch, construct public recommendations list for everyone to see, and explore other user's film recommendations.<br/><br/>
 [Trash 2 Treasure](http://trash-2-treasure.herokuapp.com) - E-commerce site using flask back end and front-end using Bootstrap and Jinja templates. . Create an account, explore, and purchase some of the most random items you can find on the internet. From some of the most iconic looks of all time to an actual human being, we have it all.<br/><br/>
 [Judge By The Cover](http://judgebythecover.herokuapp.com) - Classic bookstore using Flask back-end and ReactJS front-end. Create an account, browse through our book collection, find novels that peak your interest, and create a reading list for later. <br/><br/>
